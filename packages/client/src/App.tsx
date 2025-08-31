@@ -15,7 +15,7 @@ function App() {
             R3k5 Development Server Frontend
          </h1>
          <p>{message}</p>
-         <Button>Click Me</Button>
+         <Button>Click Me!</Button>
       </div>
    );
 }
