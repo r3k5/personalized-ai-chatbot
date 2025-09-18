@@ -1,5 +1,3 @@
-# r3k5-development-server
-
 To install dependencies:
 
 ```bash
@@ -11,5 +9,3 @@ To run:
 ```bash
 bun run index.ts
 ```
-
-This project was created using `bun init` in bun v1.2.21. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
